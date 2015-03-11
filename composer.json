@@ -1,0 +1,17 @@
+{
+    "name": "webrek/circle-crop",
+    "description": "A circle crop for php",
+    "keywords": ["crop","php", "image", "circle"],
+    "homepage": "https://github.com/webrek/circle-crop-image",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arturo Hernandez",
+            "email": "arturo.hernandez@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+}
