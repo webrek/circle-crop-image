@@ -4,6 +4,7 @@
     "keywords": ["crop","php", "image", "circle"],
     "homepage": "https://github.com/webrek/circle-crop-image",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Arturo Hernandez",
@@ -14,4 +15,9 @@
     "require": {
         "php": ">=5.3.0"
     },
+    "autoload": {
+        "psr-0": {
+            "Webrek": "src"
+        }
+    }
 }
